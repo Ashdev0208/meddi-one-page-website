@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Ramaraja&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;1,100;1,200;1,300;1,400&family=Ramaraja&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -5,7 +7,7 @@
 }
 
 :root{
-    --fontTitle--: neon led light;
+    --fontTitle--: Ramaraja;
     --text: montserrat;
     --color--: #0A1B32;
     --color2--: #4F56F1;
